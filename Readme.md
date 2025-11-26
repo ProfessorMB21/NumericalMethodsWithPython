@@ -104,7 +104,7 @@ $$h_{i-1}M_{i-1} + 2(h_{i-1} + h_i)M_i + h_iM_{i+1} = 6\left(\frac{f_{i+1} - f_i
 
 ## 📊 Results Summary
 
-### Key Findings from Example 9
+### Key Findings
 
 1. **Cubic vs Linear Splines**:
    - Cubic splines provide significantly higher accuracy
