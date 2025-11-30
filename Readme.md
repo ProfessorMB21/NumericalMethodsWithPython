@@ -1,4 +1,4 @@
-# Numerical Methods: Spline Interpolation
+r# Numerical Methods: Spline Interpolation
 
 ## 📚 Overview
 
@@ -9,14 +9,21 @@ This repository contains implementations of spline interpolation methods complet
 ```
 NumericalMethodsWithPython/
 │
+├── Homework1_Numerical_Methods.ipynb
+│
 ├── Homework2_Numerical_Methods.ipynb
 │
 ├── Readme.md
 ```
 
-## 📊 Homework Assignment: Spline Interpolation
+## 📊 Homework Assignment:
+- Lagrange interpolating polynomial
+- Newton interpolating polynomial
+- Hermite-Fejer interpolation
+- Spline interpolation
 
 ### Implementation Details
+
 
 **🔷 Linear Spline Interpolation (1st Degree)**
 - Piecewise linear interpolation between nodes
@@ -41,7 +48,7 @@ NumericalMethodsWithPython/
 - Theoretical error bounds for linear splines
 - Comparative analysis between methods and node distributions
 
-### Example 9: Detailed Analysis
+### Detailed Analysis
 
 **Function**: $f(x) = e^x + \sin\left(\frac{x + 2}{2}\right)$
 
